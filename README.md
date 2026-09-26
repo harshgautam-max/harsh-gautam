@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm [Harsh Gautam]! 👋</h1>
 
-<h3 align="center">B.Tech 2nd Year Student | Python Enthusiast 🐍</h3>
+<h3 align="center">B.Tech Ai/ML Student | Python Enthusiast 🐍</h3>
 
 <p align="center">
   Main ek passionate engineering student hoon jo nayi technologies seekhne aur build karne mein vishwas rakhta hai. Mera ultimate goal ek AI-powered desktop assistant (JARVIS) banana hai!
