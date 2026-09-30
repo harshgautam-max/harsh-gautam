@@ -20,5 +20,5 @@
 </p>
 
 ### 📫 Connect with me:
-- **LinkedIn:** [](#)
+- **LinkedIn:** [https://www.linkedin.com/in/harsh-gautam-40092b43a/](#)
 - **Email:** [gautamharsh9889@gmail.com]
